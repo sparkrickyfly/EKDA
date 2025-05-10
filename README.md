@@ -183,20 +183,6 @@ By using this dataset, you agree to:
 
 For questions, issues, or suggestions, please:
 1. Open an issue in the repository
-2. Contact the maintainers at [email address]
+2. Contact the maintainers at [1501965920@qq.com]
 
-## FAQ
 
-**Q: What is the minimum GPU memory required?**  
-A: For the base model, 8GB GPU memory is sufficient. For the large model, 16GB+ is recommended.
-
-**Q: How long does training take?**  
-A: Training time varies based on your hardware. On a single V100 GPU:
-- Base model: ~24 hours
-- Large model: ~48 hours
-
-**Q: Can I use my own dataset?**  
-A: Yes, the model supports custom datasets. Please refer to the data preparation section for formatting requirements.
-
-**Q: How can I request dataset access?**  
-A: Please follow the data access procedure outlined in the Data Access section above.
