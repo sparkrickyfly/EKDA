@@ -1,4 +1,4 @@
-# LaKo: Knowledge-Augmented Language Model for Visual Question Answering
+# EDKA:Efficient Knowledge Distillation and Alignment forImproved KB-VQA: Enhancing Multimodal Understanding
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
