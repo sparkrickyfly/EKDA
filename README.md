@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.7%2B-orange)](https://pytorch.org/)
 
-LaKo is a state-of-the-art knowledge-augmented language model designed for Visual Question Answering (VQA) tasks. This model combines the power of pre-trained language models with external knowledge to improve the accuracy and reliability of VQA systems.
+EDKA is a state-of-the-art knowledge-augmented language model designed for Visual Question Answering (VQA) tasks. This model combines the power of pre-trained language models with external knowledge to improve the accuracy and reliability of VQA systems.
 
 ## Features
 
@@ -61,12 +61,7 @@ pip install -r requirements.txt
 ## Data Access and Preparation
 
 ### Data Access
-Due to privacy and licensing restrictions, the dataset is not publicly available. To request access to the dataset:
-
-1. Contact the maintainers at [email address]
-2. Sign the data usage agreement
-3. Provide your institutional email address
-4. Wait for approval (typically 1-2 business days)
+Training Data is available https://github.com/sparkrickyfly/EKDA/tree/master/data_process
 
 ### Data Format
 Once you have access, the dataset should be organized as follows:
@@ -142,20 +137,14 @@ Pre-trained model checkpoints are available in the `checkpoints/` directory:
 - Base model: `checkpoint/vqa2.0_base_backbone/`
 - Large model: `checkpoint/vqa2.0_large_backbone/`
 
-## Performance
 
-| Model | VQA Accuracy | Knowledge Retrieval F1 |
-|-------|--------------|----------------------|
-| Base  | XX.XX%       | XX.XX%              |
-| Large | XX.XX%       | XX.XX%              |
 
 ## Citation
 
 If you use this code in your research, please cite our paper:
 
-```
 [Citation information to be added]
-```
+
 
 ## Contributing
 
@@ -165,24 +154,12 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Data Usage Agreement
 
-By using this dataset, you agree to:
-1. Use the data only for research purposes
-2. Not redistribute the data
-3. Not use the data for commercial purposes
-4. Cite the original paper in any publications
-5. Report any potential privacy concerns
 
 ## Acknowledgments
 
 - Thanks to all contributors who have helped improve this project
 - Special thanks to the open-source community for their valuable tools and libraries
 
-## Contact
-
-For questions, issues, or suggestions, please:
-1. Open an issue in the repository
-2. Contact the maintainers at [1501965920@qq.com]
 
 
