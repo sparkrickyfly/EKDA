@@ -29,7 +29,6 @@ LaKo-main/
 ├── script/                # Utility scripts
 ├── checkpoints/           # Model checkpoints
 ├── lightning_logs/        # Training logs
-└── figure/               # Generated figures and visualizations
 ```
 
 ## Prerequisites
@@ -137,22 +136,11 @@ Pre-trained model checkpoints are available in the `checkpoints/` directory:
 - Base model: `checkpoint/vqa2.0_base_backbone/`
 - Large model: `checkpoint/vqa2.0_large_backbone/`
 
-
-
 ## Citation
 
-If you use this code in your research, please cite our paper:
-
-[Citation information to be added]
+If you use this code in your research, please cite our paper
 
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
